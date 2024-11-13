@@ -3,6 +3,6 @@
 using namespace std;
 int main ()
 {
-double y, x; 
+double y, x
 cout<<"Введіть значення х= ";
 } 
